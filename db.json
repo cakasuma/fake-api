@@ -1,7 +1,6 @@
 
 {
-    "code": 1,
-    "result": [
+    "biodata": [
       { "id": 1, "name": "amam mustofa", "age": 20, "place": "palembang" },
       { "id": 2, "name": "kelvin clee", "age": 15, "place": "malaysia" },
       { "id": 3, "name": "abul", "age": 20, "place": "jambi" },
