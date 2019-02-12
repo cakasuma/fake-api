@@ -1,0 +1,11 @@
+
+{
+    "code": 1,
+    "result": [
+      { "id": 1, "name": "amam mustofa", "age": 20, "place": "palembang" },
+      { "id": 2, "name": "kelvin clee", "age": 15, "place": "malaysia" },
+      { "id": 3, "name": "abul", "age": 1, "place": "jambi" },
+      { "id": 4, "name": "kevin", "age": 1, "place": "qatar" },
+      { "id": 5, "name": "mustafa ahmed", "age": 1, "place": "somalia" }
+    ]
+  }
